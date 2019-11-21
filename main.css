@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+.nav-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.company-logo {
+    align-self: center;
+}
+
+ul {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    list-style: none;
+}
