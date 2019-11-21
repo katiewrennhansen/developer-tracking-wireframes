@@ -70,6 +70,13 @@ select {
     margin-bottom: 20px;
 }
 
+.resources li {
+    background: rgb(215, 215, 215);
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
 .status {
     padding: 6px;
     width:100px;
